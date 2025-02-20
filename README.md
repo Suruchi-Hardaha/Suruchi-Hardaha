@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suruchi Hardaha</h1>
-<h3 align="center">Information Technology Engineering Student at JABALPUR ENGINEERING COLLEGE</h3>
+<h3 align="center">Mtech CSE Student at IIT Gandhinagar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suruchi-hardaha&label=Profile%20views&color=0e75b6&style=flat" alt="suruchi-hardaha" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow ,NLP ,Computer Vision**
+- 🌱 I’m currently working on  **Active Learning,   Object Detection **
 
 - 📝 I regularly write articles on [https://medium.com/@suruchihardaha03/introduction-to-kubernetes-f2f0d543f4e7](https://medium.com/@suruchihardaha03/introduction-to-kubernetes-f2f0d543f4e7)
 
